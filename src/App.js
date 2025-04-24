@@ -165,7 +165,7 @@ function App() {
     <ThemeProvider theme={currentTheme}>
       <CssBaseline />
       <AuthProvider>
-        <Router basename="/tailor-pwa">
+        <Router basename={process.env.PUBLIC_URL}>
           <Routes>
             <Route path="/login" element={<Login />} />
             <Route
