@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/tailor-pwa/static/css/main.f855e6bc.css",
-    "main.js": "/tailor-pwa/static/js/main.2f9318f3.js",
+    "main.js": "/tailor-pwa/static/js/main.7458a693.js",
     "static/js/453.9c63e1fe.chunk.js": "/tailor-pwa/static/js/453.9c63e1fe.chunk.js",
     "service-worker.js": "/tailor-pwa/service-worker.js",
     "index.html": "/tailor-pwa/index.html",
     "main.f855e6bc.css.map": "/tailor-pwa/static/css/main.f855e6bc.css.map",
-    "main.2f9318f3.js.map": "/tailor-pwa/static/js/main.2f9318f3.js.map",
+    "main.7458a693.js.map": "/tailor-pwa/static/js/main.7458a693.js.map",
     "453.9c63e1fe.chunk.js.map": "/tailor-pwa/static/js/453.9c63e1fe.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f855e6bc.css",
-    "static/js/main.2f9318f3.js"
+    "static/js/main.7458a693.js"
   ]
 }
